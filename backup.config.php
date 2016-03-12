@@ -21,7 +21,7 @@ const BACKUP_DIR = FILES_DIR."backup"; // Directory where backups are stored in
 const DB_HOST = "127.0.0.3";
 const DATABASES = [
     "dbXXXXXX_1" =>  "password1",
-    "dbXXXXXX_2" =>  "passwort2"
+    "dbXXXXXX_2" =>  "password2"
 ];
 
 const EXCLUDES = [
